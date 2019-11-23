@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.2374865, 11.6647688]
+      },
+      "properties": {
+        "id": 1,
+        "name": "臺北市政府親子劇場",
+        "site": "110台北市信義區市府路1號市府大樓"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.2397146, 11.6653771]
+      },
+      "properties": {
+        "id": 2,
+        "name": "誠品信義店",
+        "site": "110台北市信義區松高路11號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.2405919, 11.6647644]
+      },
+      "properties": {
+        "id": 3,
+        "name": "蔦屋書店信義店",
+        "site": "110台北市信義區忠孝東路五段8號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.239982, 11.672258]
+      },
+      "properties": {
+        "id": 4,
+        "name": "臺北市立松山高級工農職業學校",
+        "site": "110台北市信義區忠孝東路五段236巷15號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.2336076, 11.6647587]
+      },
+      "properties": {
+        "id": 5,
+        "name": "台北101觀景台",
+        "site": "110台北市信義區信義路五段7號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.233263, 11.660492]
+      },
+      "properties": {
+        "id": 6,
+        "name": "台北國際會議中心(TICC)",
+        "site": "110台北市信義區信義路五段1號"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [48.2400306, 11.6602452]
+      },
+      "properties": {
+        "id": 7,
+        "name": "國立國父紀念館",
+        "site": "110台北市信義區仁愛路四段505號"
+      }
+    }
+  ]
+}
